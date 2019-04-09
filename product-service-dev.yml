@@ -13,4 +13,4 @@ spring:
   application:
     name: product-service
     
-myowner:chenli
+myowner: chenli
